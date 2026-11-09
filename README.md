@@ -6,10 +6,12 @@ All genres welcome. Mystery, horror, suspense, and thrillers are current interes
 
 ## Lists
 
-- [Audio podcasts and dramas](audio-podcasts-dramas.md)
+- [English-language audio podcasts and dramas](audio-podcasts-dramas.md)
   - [Whodunits after Deadly Manners](audio-podcasts-dramas.md#whodunits-after-deadly-manners)
   - [Listening notes](audio-podcasts-dramas.md#listening-notes)
   - [Research sources](audio-podcasts-dramas.md#research-sources)
+- [Spanish-language audio podcasts and dramas](audio-podcasts-dramas-es.md)
+  - [Where to start](audio-podcasts-dramas-es.md#where-to-start)
 - TV shows and movies: No titles added yet.
 
 ## Updating the list

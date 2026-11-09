@@ -1,6 +1,6 @@
 # Audio podcasts and dramas
 
-[Back to consume list](README.md) · [Catalogue](#podcasts) · [Listening notes](#listening-notes) · [Whodunits after Deadly Manners](#whodunits-after-deadly-manners) · [Research sources](#research-sources)
+[Back to consume list](README.md) · [Spanish-language catalogue](audio-podcasts-dramas-es.md) · [Catalogue](#podcasts) · [Listening notes](#listening-notes) · [Whodunits after Deadly Manners](#whodunits-after-deadly-manners) · [Research sources](#research-sources)
 
 ## Podcasts
 
